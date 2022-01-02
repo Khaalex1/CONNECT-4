@@ -7,7 +7,7 @@ Le code Main 1.py lance une partie de jeu entre 2 joueurs.
 Le code AI.py lance une partie de jeu contre une intelligence artificielle de type MiniMax.
 
 # Etat du programme 
-L'Intelligence artificielle MiniMax non opérationnelle, elle ne se contente pour l'instant que de jouer au hasard
+L'Intelligence artificielle MiniMax est non opérationnelle, elle ne se contente pour l'instant que de jouer au hasard.
 
 # Utilisation  
 Il est nécessaire d'installer le module pygame si ce n'est pas déjà fait.
