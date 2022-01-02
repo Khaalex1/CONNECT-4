@@ -9,6 +9,6 @@ Le code AI.py lance une partie de jeu contre une intelligence artificielle de ty
 Etat du programme : Intelligence artificielle MiniMax non opérationnelle, elle ne se contente pour l'instant que de jouer au hasard
 
 Utilisation : 
-Il est nécessaire d'installer le module ygame si ce n'est pas déjà fait.
+Il est nécessaire d'installer le module pygame si ce n'est pas déjà fait.
 Au lancement du jeu, une interface graphique apparaît et rend le jeu assez visuel. Avec la souris l'utilisateur clique gauche sur la colonne pour y déposer sa pièce.
 Un vainqueur ou le match nul est signalé par un texte sur le haut de la fénêtre.
