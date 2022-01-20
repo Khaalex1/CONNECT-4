@@ -1,6 +1,6 @@
 # CONNECT-4
 
-Ce programme constitué de 3 codes Python et inspiré du didacticiel proposé par la chaîne youtube freeCampCode.org implémente un jeu de Puissance 4.
+Ce programme est constitué de 3 codes Python et inspiré du didacticiel proposé par la chaîne youtube freeCampCode.org implémente un jeu de Puissance 4.
 
 Le code Board.py contient la classe Plateau ainsi que les méthodes qui sont dédiées au bon déroulement d'une partie.
 Le code Main 1.py lance une partie de jeu entre 2 joueurs.
